@@ -1,0 +1,116 @@
+{
+    "words": [
+        {
+            "wordValue": "MANGO",
+            "wordHint": "A Fruit"
+        },
+        {
+            "wordValue": "BANANA",
+            "wordHint": "A Fruit"
+        },
+        {
+            "wordValue": "NEPAL",
+            "wordHint": "A Country"
+        },
+        {
+            "wordValue": "INDIA",
+            "wordHint": "A Country"
+        },
+        {
+            "wordValue": "PYTHON",
+            "wordHint": "A Programming Language"
+        },
+        {
+            "wordValue": "JAVASCRIPT",
+            "wordHint": "A Programming Language"
+        },
+        {
+            "wordValue": "ELEPHANT",
+            "wordHint": "An Animal"
+        },
+        {
+            "wordValue": "TIGER",
+            "wordHint": "An Animal"
+        },
+        {
+            "wordValue": "APPLE",
+            "wordHint": "A Fruit"
+        },
+        {
+            "wordValue": "ORANGE",
+            "wordHint": "A Fruit"
+        },
+        {
+            "wordValue": "GRAPE",
+            "wordHint": "A Fruit"
+        },
+        {
+            "wordValue": "CHERRY",
+            "wordHint": "A Fruit"
+        },
+        {
+            "wordValue": "BRAZIL",
+            "wordHint": "A Country"
+        },
+        {
+            "wordValue": "CANADA",
+            "wordHint": "A Country"
+        },
+        {
+            "wordValue": "JAVA",
+            "wordHint": "A Programming Language"
+        },
+        {
+            "wordValue": "RUBY",
+            "wordHint": "A Programming Language"
+        },
+        {
+            "wordValue": "DOG",
+            "wordHint": "An Animal"
+        },
+        {
+            "wordValue": "CAT",
+            "wordHint": "An Animal"
+        },
+        {
+            "wordValue": "PEAR",
+            "wordHint": "A Fruit"
+        },
+        {
+            "wordValue": "PEACH",
+            "wordHint": "A Fruit"
+        },
+        {
+            "wordValue": "FRANCE",
+            "wordHint": "A Country"
+        },
+        {
+            "wordValue": "GERMANY",
+            "wordHint": "A Country"
+        },
+        {
+            "wordValue": "C",
+            "wordHint": "A Programming Language"
+        },
+        {
+            "wordValue": "SWIFT",
+            "wordHint": "A Programming Language"
+        },
+        {
+            "wordValue": "LION",
+            "wordHint": "An Animal"
+        },
+        {
+            "wordValue": "GIRAFFE",
+            "wordHint": "An Animal"
+        },
+        {
+            "wordValue": "STRAWBERRY",
+            "wordHint": "A Fruit"
+        },
+        {
+            "wordValue": "BLUEBERRY",
+            "wordHint": "A Fruit"
+        }
+    ]
+}
